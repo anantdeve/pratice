@@ -105,7 +105,9 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: .center,
           children: [
             const Text(
+
               'Anant Prajapati ',
+
               style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.bold,
