@@ -105,7 +105,11 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: .center,
           children: [
             const Text(
-              'Flutter master Branch',
+<<<<<<< HEAD
+
+=======
+              'Anant',
+>>>>>>> develop
               style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.bold,
