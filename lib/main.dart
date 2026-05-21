@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'feature/login.dart';
-import 'feature/payment.dart';
 
 void main() {
   runApp(const MyApp());
