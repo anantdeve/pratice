@@ -132,15 +132,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: const Text('Login'),
             ),
             const SizedBox(height: 15),
-            ElevatedButton(
-              onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => const PaymentPage()),
-                );
-              },
-              child: const Text('Payment'),
-            ),
+
           ],
         ),
       ),
